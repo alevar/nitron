@@ -1,0 +1,6 @@
+[submodule "include/htslib"]
+	path = include/htslib
+	url = https://github.com/samtools/htslib
+[submodule "include/LightGBM"]
+	path = include/LightGBM
+	url = https://github.com/microsoft/LightGBM
